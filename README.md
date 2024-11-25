@@ -17,7 +17,7 @@ Organs_Olink_Insight_with_Initials - Protein Uniprot code and descriptions - Pla
 
 1) Run the following R program, 
 
-- Qual_Tese_1_MGH_Data_Prep_BMI_pre_existing.R - Calculates ANOVA for the COVID-19-positive patients based on Age, BMI and Pre-existing diseases
+- Qual_Tese_1_MGH_pre_existing.R - Calculates ANOVA for the COVID-19-positive patients based on Age, BMI and Pre-existing diseases
 
 2) Run the following Python program to build the MHE data preparation:
 
