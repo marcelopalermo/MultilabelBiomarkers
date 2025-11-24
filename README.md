@@ -1,7 +1,7 @@
 Environment:
 
 - Python 3.10.13 with Tensorflow (latest version available for such Python version)
-- R 4.4.0
+- R 4.4.0 or above
 Note: install both Python and R packages on demand, when asked or informed by programs
 
 For all program codes: adjust the working and saving directories accordingly 
@@ -15,7 +15,7 @@ Organs_Olink_Insight_with_Initials - Protein Uniprot code and descriptions - Pla
 
 
 
-1) Run the following R program, 
+1) Run the following R program:
 
 - Qual_Tese_1_MGH_pre_existing.R - Calculates ANOVA for the COVID-19-positive patients based on Age, BMI and Pre-existing diseases
 
